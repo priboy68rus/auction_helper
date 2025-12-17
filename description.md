@@ -1,3 +1,9 @@
+# полезные ссылки
+аук - https://topdeck.ru/apps/toptrade/auctions
+магазин с2с - https://topdeck.ru/apps/toptrade/singles/search?q=Phyrexian+Altar
+база карт - https://scryfall.com
+у scryfall есть апи - обратите внимание на oracle_id + illustration_id - https://api.scryfall.com/cards/6dff6978-a794-4f4c-9039-594b15e7dbfe?format=json&pretty=true
+
 # проблема
 
 ## предыстория
